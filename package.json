@@ -1,0 +1,22 @@
+{
+  "name": "sodabootcamp2021",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juliekye/sodabootcamp2021.git"
+  },
+  "author": "Julie Kye",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juliekye/sodabootcamp2021/issues"
+  },
+  "homepage": "https://github.com/juliekye/sodabootcamp2021#readme",
+  "dependencies": {
+    "live-server": "^1.2.1"
+  }
+}
